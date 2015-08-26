@@ -1,0 +1,10 @@
+C:\Dev\CountdownApp\CountdownApp\bin\Debug\CountdownApp.exe.config
+C:\Dev\CountdownApp\CountdownApp\bin\Debug\CountdownApp.exe
+C:\Dev\CountdownApp\CountdownApp\bin\Debug\CountdownApp.pdb
+C:\Dev\CountdownApp\CountdownApp\obj\Debug\CountdownApp.csprojResolveAssemblyReference.cache
+C:\Dev\CountdownApp\CountdownApp\obj\Debug\CountdownApp.MainForm.resources
+C:\Dev\CountdownApp\CountdownApp\obj\Debug\CountdownApp.Properties.Resources.resources
+C:\Dev\CountdownApp\CountdownApp\obj\Debug\CountdownApp.Views.CountdownForm.resources
+C:\Dev\CountdownApp\CountdownApp\obj\Debug\CountdownApp.csproj.GenerateResource.Cache
+C:\Dev\CountdownApp\CountdownApp\obj\Debug\CountdownApp.exe
+C:\Dev\CountdownApp\CountdownApp\obj\Debug\CountdownApp.pdb
